@@ -1,3 +1,0 @@
-/mnt/c/Users/matia/OneDrive/Desktop/Biblioteca/build/CMakeFiles/Biblioteca.dir
-/mnt/c/Users/matia/OneDrive/Desktop/Biblioteca/build/CMakeFiles/edit_cache.dir
-/mnt/c/Users/matia/OneDrive/Desktop/Biblioteca/build/CMakeFiles/rebuild_cache.dir
